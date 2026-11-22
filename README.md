@@ -64,7 +64,8 @@ Open http://127.0.0.1:5000 in your browser.
 
 <img width="403" height="288" alt="WhatsApp Image 2026-11-22 at 10 25 03 PM" src="https://github.com/user-attachments/assets/bf16febd-fcc7-483f-b103-036242cec29b" />
 
-![Uploading WhatsApp Images 2026-11-22 at 10.25.11 PM.jpeg…]()
+
+<img width="406" height="214" alt="WhatsApp Images 2026-11-22 at 10 25 11 PM" src="https://github.com/user-attachments/assets/6ffc6c8c-4b23-4c70-92ca-a5b3c3a0e6d8" />
 
 
 🖥️ Usage
